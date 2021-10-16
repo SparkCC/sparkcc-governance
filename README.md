@@ -1,2 +1,3 @@
-# sparkcc-governance
-SparkCC Governance
+# SparkCC Governance
+
+Offical repository of SparkCC governance documents.
