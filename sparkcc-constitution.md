@@ -509,4 +509,10 @@ _Note: Schedule 1 of the Act provides that an association’s constitution is to
 
 ### 43. Dissolution
 
-In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
+1. In the event of the organisation being dissolved or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation, fund, authority or institution with similar objects to which income tax deductible gifts can be made:
+
+    1. gifts of money or property for the principal purpose of the organisation
+    2. contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation, and
+    3. money received by the organisation because of such gifts and contributions
+
+2. In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities including those in subclause 1. shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
