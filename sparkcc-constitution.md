@@ -153,7 +153,7 @@ A right, privilege or obligation which a person has by reason of being a member 
 
 ### 8. Fees and subscriptions
 
-1. A member of the association must pay to the association a monthly membership fee of $40 or, if some other amount is determined by the committee, that other amount:
+1. A member of the association must pay to the association a monthly membership fee of $50 or, if some other amount is determined by the committee, that other amount:
 
     1. Membership fees are to paid one month in advance
     2. No refunds will be given on any fees paid in advance.
