@@ -176,7 +176,8 @@ The liability of a member of the association to contribute towards the payment o
 
     1. has refused or neglected to comply with a provision or provisions of this
 constitution, or
-    2. has wilfully acted in a manner prejudicial to the interests of the association.
+    2. has wilfully acted in a manner prejudicial to the interests of the association, or
+    3. has acted in a manner contrary to the SparkCC Code of Conduct.
 
 2. The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
 
