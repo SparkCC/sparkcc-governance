@@ -102,7 +102,7 @@ _Document Version 4: February 2022_
 
     1. must be made by online at https://members.sparkcc.org.
 
-2. A applicant will become a member of the association after they have:
+2. An applicant will become a member of the association after they have:
 
     1. completed a general induction either in-person or online at https://members.sparkcc.org.
     2. made their first monthly membership payment as outlined by this constitution.
