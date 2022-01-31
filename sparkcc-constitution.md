@@ -229,7 +229,7 @@ vice-president offices).
 
 1. Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
 
-    1. must be made in writing, signed by 2 committee members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination), and
+    1. must be made in writing, and
     2. must be delivered to the secretary of the association at least 7 days before the date fixed for the holding of the annual general meeting at which the election is to take place.
 
 2. If insufficient nominations are received to fill all vacancies on the committee, current committee may at it’s discretion appoint positions from the nominated candidates.
