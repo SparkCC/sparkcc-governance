@@ -234,7 +234,7 @@ vice-president offices).
 
 2. If insufficient nominations are received to fill all vacancies on the committee, current committee may at it’s discretion appoint positions from the nominated candidates.
 
-3. If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held amongst existing committee members.
+3. If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held amongst existing association members.
 
 4. The ballot for the election of office-bearers and ordinary committee members of the committee is to be conducted in such usual and proper manner as the committee may direct.
 
