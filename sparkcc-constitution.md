@@ -12,7 +12,7 @@ _Document Version 3 May 2015_
     - 1 Definitions
 - Part 2 - Membership
     - 2 Membership generally
-    - 3 Nomination for membership
+    - 3 Application for membership
     - 4 Cessation of membership
     - 5 Membership entitlements not transferable
     - 6 Resignation of membership
