@@ -84,8 +84,7 @@ _Document Version 3 May 2015_
 
 1. A person is eligible to be a member of the association if:
 
-    1. the person is a natural person, and
-    2. the person has been nominated and approved for membership of the association in accordance with clause 3.
+    1. the person is a natural person
 
 2. A person is taken to be a member of the association if:
 
@@ -95,23 +94,20 @@ _Document Version 3 May 2015_
         2. in the case of an association that is amalgamated to form the relevant association - a member of that other association immediately before the amalgamation, or
         3. in the case of a registrable corporation that is registered as an association - a member of the registrable corporation immediately before that entity was registered as an association.
 
-3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 1.      1.  of the Act was made.
+3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 (1) (a) of the Act was made.
 
-### 3. Nomination for membership
+### 3. Application for membership
 
-1. A nomination of a person for membership of the association:
+1. Application for membership of the association:
 
-    1. must be made by a member of the association either in writing in the form set out in Appendix 1 to this constitution, or by online registration via the SparkCC website.
-    2. must be lodged with the secretary of the association.
+    1. must be made by online at https://members.sparkcc.org.
 
-2. As soon as practicable after receiving a nomination for membership, the secretary must refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
+2. A applicant will become a member of the association after they have:
 
-3. As soon as practicable after the committee makes that determination, the secretary must:
+    1. completed a general induction either in-person or online at https://members.sparkcc.org.
+    2. made their first monthly membership payment as outlined by this constitution.
 
-    1. notify the nominee, in writing, that the committee approved or rejected the nomination (whichever is applicable), and
-    2. if the committee approved the nomination, request the nominee to pay (within the period of 28 days after receipt by the nominee of the notification) the sum payable under this constitution by a member as entrance fee and annual subscription.
-
-4. The secretary must, on payment by the nominee of the amounts referred to in subclause 3.      2. within the period referred to in that provision, enter or cause to be entered the nominee’s name in the register of members and, on the name being so entered, the nominee becomes a member of the association.
+3. Upon completing the steps in clause 3 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
 
 ### 4. Cessation of membership
 
@@ -513,57 +509,3 @@ _Note: Schedule 1 of the Act provides that an association’s constitution is to
 ### 43. Dissolution
 
 In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
-
-## Appendix 1 - Application for membership of association
-
-(Clause 3 1. )
-
-```
-APPLICATION FOR MEMBERSHIP OF ASSOCIATION
-```
-Incorporated (incorporated under the _Associations Incorporation Act 2009_ )
-
-I, ....................................................................................................................................
-
-```
-[ full name of applicant ]
-```
-of ...................................................................................................................................
-
-```
-[ address ]
-```
-.......................................................................................................................................
-
-```
-[ occupation ]
-```
-hereby apply to become a member of the abovenamed incorporated association. In
-the event of my admission as a member, I agree to be bound by the constitution of
-the association for the time being in force.
-
-......................................................................................................................................
-_Signature of applicant_ Date
-
-I, ....................................................................................................................................
-
-```
-[ full name ]
-```
-a member of the association, nominate the applicant for membership of the
-association.
-
-......................................................................................................................................
-_Signature of proposer_ Date
-
-I, ....................................................................................................................................
-
-```
-[ full name ]
-```
-a member of the association, second the nomination of the applicant for membership
-of the association.
-
-......................................................................................................................................
-_Signature of seconder_ Date
-
