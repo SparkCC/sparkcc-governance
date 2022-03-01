@@ -4,7 +4,7 @@
 
 Under the Associations Incorporation Act 2009
 
-_Document Version 3 May 2015_
+_Document Version 4: February 2022_
 
 ## Contents
 
@@ -12,7 +12,7 @@ _Document Version 3 May 2015_
     - 1 Definitions
 - Part 2 - Membership
     - 2 Membership generally
-    - 3 Nomination for membership
+    - 3 Application for membership
     - 4 Cessation of membership
     - 5 Membership entitlements not transferable
     - 6 Resignation of membership
@@ -84,8 +84,7 @@ _Document Version 3 May 2015_
 
 1. A person is eligible to be a member of the association if:
 
-    1. the person is a natural person, and
-    2. the person has been nominated and approved for membership of the association in accordance with clause 3.
+    1. the person is a natural person
 
 2. A person is taken to be a member of the association if:
 
@@ -95,23 +94,20 @@ _Document Version 3 May 2015_
         2. in the case of an association that is amalgamated to form the relevant association - a member of that other association immediately before the amalgamation, or
         3. in the case of a registrable corporation that is registered as an association - a member of the registrable corporation immediately before that entity was registered as an association.
 
-3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 1.      1.  of the Act was made.
+3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 (1) (a) of the Act was made.
 
-### 3. Nomination for membership
+### 3. Application for membership
 
-1. A nomination of a person for membership of the association:
+1. Application for membership of the association:
 
-    1. must be made by a member of the association either in writing in the form set out in Appendix 1 to this constitution, or by online registration via the SparkCC website.
-    2. must be lodged with the secretary of the association.
+    1. must be made by online at https://members.sparkcc.org.
 
-2. As soon as practicable after receiving a nomination for membership, the secretary must refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
+2. An applicant will become a member of the association after they have:
 
-3. As soon as practicable after the committee makes that determination, the secretary must:
+    1. completed a general induction either in-person or online at https://members.sparkcc.org.
+    2. made their first monthly membership payment as outlined by this constitution.
 
-    1. notify the nominee, in writing, that the committee approved or rejected the nomination (whichever is applicable), and
-    2. if the committee approved the nomination, request the nominee to pay (within the period of 28 days after receipt by the nominee of the notification) the sum payable under this constitution by a member as entrance fee and annual subscription.
-
-4. The secretary must, on payment by the nominee of the amounts referred to in subclause 3.      2. within the period referred to in that provision, enter or cause to be entered the nominee’s name in the register of members and, on the name being so entered, the nominee becomes a member of the association.
+3. Upon completing the steps in clause 3 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
 
 ### 4. Cessation of membership
 
@@ -157,7 +153,7 @@ A right, privilege or obligation which a person has by reason of being a member 
 
 ### 8. Fees and subscriptions
 
-1. A member of the association must pay to the association a monthly membership fee of $40 or, if some other amount is determined by the committee, that other amount:
+1. A member of the association must pay to the association a monthly membership fee of $50 or, if some other amount is determined by the committee, that other amount:
 
     1. Membership fees are to paid one month in advance
     2. No refunds will be given on any fees paid in advance.
@@ -180,7 +176,8 @@ The liability of a member of the association to contribute towards the payment o
 
     1. has refused or neglected to comply with a provision or provisions of this
 constitution, or
-    2. has wilfully acted in a manner prejudicial to the interests of the association.
+    2. has wilfully acted in a manner prejudicial to the interests of the association, or
+    3. has acted in a manner contrary to the SparkCC Code of Conduct.
 
 2. The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
 
@@ -232,12 +229,12 @@ vice-president offices).
 
 1. Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
 
-    1. must be made in writing, signed by 2 committee members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination), and
+    1. must be made in writing, and
     2. must be delivered to the secretary of the association at least 7 days before the date fixed for the holding of the annual general meeting at which the election is to take place.
 
 2. If insufficient nominations are received to fill all vacancies on the committee, current committee may at it’s discretion appoint positions from the nominated candidates.
 
-3. If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held amongst existing committee members.
+3. If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held amongst existing association members.
 
 4. The ballot for the election of office-bearers and ordinary committee members of the committee is to be conducted in such usual and proper manner as the committee may direct.
 
@@ -512,58 +509,10 @@ _Note: Schedule 1 of the Act provides that an association’s constitution is to
 
 ### 43. Dissolution
 
-In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
+1. In the event of the organisation being dissolved or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation, fund, authority or institution with similar objects to which income tax deductible gifts can be made:
 
-## Appendix 1 - Application for membership of association
+    1. gifts of money or property for the principal purpose of the organisation
+    2. contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation, and
+    3. money received by the organisation because of such gifts and contributions
 
-(Clause 3 1. )
-
-```
-APPLICATION FOR MEMBERSHIP OF ASSOCIATION
-```
-Incorporated (incorporated under the _Associations Incorporation Act 2009_ )
-
-I, ....................................................................................................................................
-
-```
-[ full name of applicant ]
-```
-of ...................................................................................................................................
-
-```
-[ address ]
-```
-.......................................................................................................................................
-
-```
-[ occupation ]
-```
-hereby apply to become a member of the abovenamed incorporated association. In
-the event of my admission as a member, I agree to be bound by the constitution of
-the association for the time being in force.
-
-......................................................................................................................................
-_Signature of applicant_ Date
-
-I, ....................................................................................................................................
-
-```
-[ full name ]
-```
-a member of the association, nominate the applicant for membership of the
-association.
-
-......................................................................................................................................
-_Signature of proposer_ Date
-
-I, ....................................................................................................................................
-
-```
-[ full name ]
-```
-a member of the association, second the nomination of the applicant for membership
-of the association.
-
-......................................................................................................................................
-_Signature of seconder_ Date
-
+2. In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities including those in subclause 1. shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
