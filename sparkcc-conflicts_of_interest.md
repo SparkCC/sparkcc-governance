@@ -35,7 +35,7 @@ It is the policy of **SparkCC Incorporated**, as well as a responsibility of the
 
 **SparkCC Incorporated** will manage conflicts of interest by requiring committee members to:
 
- *  avoid conflicts of interest where possible
+ * avoid conflicts of interest where possible
 
  * identify and disclose any conflicts of interest
 
@@ -47,11 +47,11 @@ It is the policy of **SparkCC Incorporated**, as well as a responsibility of the
 
 The committee is responsible for:
 
-*  establishing a system for identifying, disclosing and managing conflicts of interest across the organisation
+* establishing a system for identifying, disclosing and managing conflicts of interest across the organisation
 
-*  monitoring compliance with this policy, and
+* monitoring compliance with this policy, and
 
-*  reviewing this policy on an annual basis to ensure that the policy is operating effectively.
+* reviewing this policy on an annual basis to ensure that the policy is operating effectively.
 
 The organisation must ensure that its committee members are aware of the ACNC governance standards, particularly governance standard 5, and that they disclose any actual or perceived material conflicts of interests as required by governance standard 5.
 
@@ -61,7 +61,7 @@ Once an actual, potential or perceived conflict of interest is identified, it mu
 
 Where every other committee member shares a conflict, the committee should refer to ACNC Governance Standard 5 to ensure that proper disclosure occurs.
 
-The register of interests must be maintained by **The Secretary**, The register must record information related to a conflict of interest (including the nature and extent of the conflict of interest and any steps taken to address it).
+The register of interests must be maintained by **The Secretary**. The register must record information related to a conflict of interest (including the nature and extent of the conflict of interest and any steps taken to address it).
 
 ###  5.3 Confidentiality of disclosures
 
@@ -73,11 +73,11 @@ All committee members of **SparkCC Incorporated** will have access to the disclo
 
 Once the conflict of interest has been appropriately disclosed, the committee (excluding the committee member who has made the disclosure, as well as any other conflicted committee member) must decide whether or not those conflicted committee members should:
 
-*  vote on the matter (this is a minimum),
+* vote on the matter (this is a minimum),
 
-*  participate in any debate, or
+* participate in any debate, or
 
-*  be present in the room during the debate and the voting.
+* be present in the room during the debate and the voting.
 
 In exceptional circumstances, such as where a conflict is very significant or likely to prevent a committee member from regularly participating in discussions, it may be worth the committee considering if it is appropriate for the person conflicted to resign from the committee.
 
@@ -107,6 +107,6 @@ If it is found that this person has failed to disclose a conflict of interest, t
 
 If a person suspects that a committee member has failed to disclose a conflict of interest, they must notify the committee.
 
-Contacts
+## Contacts
 
-For questions about this policy, contact the committee by Email at committee@sparkcc.org
+For questions about this policy, contact the committee by email at committee@sparkcc.org
