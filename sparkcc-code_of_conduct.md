@@ -16,13 +16,13 @@ We ask everyone to be aware that we will not tolerate intimidation, harassment, 
 
 Incidents may be reported to the SparkCC Committee as outlined in _Reporting incidents_ below. Should the Commitee consider it appropriate, measures they may take include:
 
-    - The individual may be told to apologise
-    - The individual may be told to stop/modify their behaviour appropriately
-    - The individual may be warned that enforcement action may be taken if the behaviour continues
-    - The individual may be asked to immediately leave the space and/or be prohibited from returning
-    - The individual may have any existing SparkCC membership suspended
-    - The individual may have any existing SparkCC membership cancelled
-    - The incident may be reported to the appropriate authorities
+- The individual may be told to apologise
+- The individual may be told to stop/modify their behaviour appropriately
+- The individual may be warned that enforcement action may be taken if the behaviour continues
+- The individual may be asked to immediately leave the space and/or be prohibited from returning
+- The individual may have any existing SparkCC membership suspended
+- The individual may have any existing SparkCC membership cancelled
+- The incident may be reported to the appropriate authorities
 
 ## What does that mean for me?
 
@@ -30,18 +30,18 @@ All SparkCC members and visitors in a SparkCC space or at a SparkCC event must n
 
 Here are some examples of behaviours which are not appropriate:
 
-    - Offensive verbal or written remarks related but not limited to gender, sex, sexual orientation, disability, physical appearance, body size, race or religion
-    - Sexual or violent images in public spaces (including presentation slides)
-    - Deliberate intimidation
-    - Stalking or following
-    - Unwanted private/direct online messaging
-    - Unwanted photography or recording
-    - Sustained disruption of presentations or other events
-    - Intoxication
-    - Inappropriate physical contact
-    - Unwelcome sexual attention
-    - Sexist, racist, or other exclusionary jokes
-    - Unwarranted exclusion based on attributes such as (but not limited to) age, gender, sex, sexual orientation, disability, physical appearance, body size, race, religion
+- Offensive verbal or written remarks related but not limited to gender, sex, sexual orientation, disability, physical appearance, body size, race or religion
+- Sexual or violent images in public spaces (including presentation slides)
+- Deliberate intimidation
+- Stalking or following
+- Unwanted private/direct online messaging
+- Unwanted photography or recording
+- Sustained disruption of presentations or other events
+- Intoxication
+- Inappropriate physical contact
+- Unwelcome sexual attention
+- Sexist, racist, or other exclusionary jokes
+- Unwarranted exclusion based on attributes such as (but not limited to) age, gender, sex, sexual orientation, disability, physical appearance, body size, race, religion
 
 We want everyone to have a great time at SparkCC. Be excellent to each other.
 
