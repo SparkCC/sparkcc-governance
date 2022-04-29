@@ -9,7 +9,9 @@ _Document Version 4: February 2022_
 ## Contents
 
 - Part 1 - Preliminary
-    - 1 Definitions
+    - 1 Vision
+    - 2 Mission
+    - 3 Definitions
 - Part 2 - Membership
     - 2 Membership generally
     - 3 Application for membership
@@ -59,7 +61,21 @@ _Document Version 4: February 2022_
 
 ## Part 1 - Preliminary
 
-### 1. Definitions
+### 1. Vision
+
+1. SparkCC believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
+
+### 2. Mission
+
+1. SparkCC achieves its Vision by:
+
+- Nuturing a maker community built upon a culture of sharing knowledge and skills.
+- Providing a space in which the maker community can create, collaborate, share and socialise.
+- Providing access to tools and equipment that may be prohibitive for individual makers to own.
+- Providing a space for related communities to host workshops and events.
+- Ensuring our space is inclusive, safe and welcoming for everyone.
+
+### 3. Definitions
 
 1.  In this constitution:
 
