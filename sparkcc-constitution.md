@@ -452,8 +452,6 @@ A special resolution may only be passed by the association in accordance with se
 
 Proxy voting must not be undertaken at or in respect of a general meeting.
 
-_Note: Schedule 1 of the Act provides that an association’s constitution is to address whether members of the association are entitled to vote by proxy at general meetings._
-
 ## Part 5 - Miscellaneous
 
 ### 5.1 Insurance
@@ -519,8 +517,6 @@ The financial year of the association is:
 
 1. the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
 2. each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
-
-_Note: Schedule 1 of the Act provides that an association’s constitution is to address the association’s financial year._
 
 ### 5.9 Dissolution
 
