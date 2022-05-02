@@ -122,7 +122,7 @@ _Document Version 4: February 2022_
     1. completed a general induction either in-person or online at https://members.sparkcc.org.
     2. made their first monthly membership payment as outlined by this constitution.
 
-3. Upon completing the steps in clause 3 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
+3. Upon completing the steps in clause 2.2 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
 
 ### 2.3 Cessation of membership
 
@@ -131,7 +131,7 @@ A person ceases to be a member of the association if the person:
 1. dies, or
 2. resigns membership, or
 3. is expelled from the association, or
-4. fails to pay the monthly membership fee under clause 8 2.  before the next billing cycle date.
+4. fails to pay the monthly membership fee under clause 2.7 2.  before the next billing cycle date.
 
 ### 2.4 Membership entitlements not transferable
 
@@ -175,7 +175,7 @@ A right, privilege or obligation which a person has by reason of being a member 
 
 ### 2.8 Members’ liabilities
 
-The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 8.
+The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 2.7.
 
 ### 2.9 Resolution of disputes
 
@@ -204,7 +204,7 @@ constitution, or
 
 4. The committee may, by resolution, expel the member from the association or suspend the member from membership of the association if, after considering the complaint and any submissions made in connection with the complaint, it is satisfied that the facts alleged in the complaint have been proved and the expulsion or suspension is warranted in the circumstances.
 
-5. If the committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken, of the reasons given by the committee for having taken that action and of the member’s right of appeal under clause 12.
+5. If the committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken and of the reasons given by the committee for having taken that action.
 
 6. The expulsion or suspension takes effect at the committees discretion.
 
@@ -224,7 +224,7 @@ by the association in general meeting, the committee:
 1. The committee is to consist of:
 
     1. the office-bearers of the association, and
-    2. up to 3 ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 15.
+    2. up to 3 ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 3.3.
 
 2. The total number of committee members is to be a maximum of 7.
 
@@ -284,7 +284,7 @@ It is the duty of the treasurer of the association to ensure:
     2. ceases to be a member of the association, or
     3. becomes an insolvent under administration within the meaning of the _Corporations Act 2001_ of the Commonwealth, or
     4. resigns office by notice in writing given to the secretary, or
-    5. is removed from office under clause 19, or
+    5. is removed from office under clause 3.7, or
     6. becomes a mentally incapacitated person, or
     7. is absent without the consent of the committee from 3 consecutive meetings of the committee, or
     8. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
@@ -343,7 +343,7 @@ It is the duty of the treasurer of the association to ensure:
 2. Each member present at a meeting of the committee or of any sub-committee appointed by the committee (including the person presiding at the meeting) is
 entitled to one vote but, in the event of an equality of votes on any question, the person presiding may exercise a second or casting vote.
 
-3. Subject to clause 20 (5), the committee may act despite any vacancy on the committee.
+3. Subject to clause 3.8 (5), the committee may act despite any vacancy on the committee.
 
 4. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
@@ -361,7 +361,7 @@ entitled to one vote but, in the event of an equality of votes on any question, 
 
 ### 4.2 Annual general meetings - calling of and business at
 
-1. The annual general meeting of the association is, subject to the Act and to clause 23, to be convened on such date and at such place and time as the committee thinks fit.
+1. The annual general meeting of the association is, subject to the Act and to clause 4.1, to be convened on such date and at such place and time as the committee thinks fit.
 
 2. In addition to any other business which may be transacted at an annual general
 meeting, the business of an annual general meeting is to include the following:
@@ -390,7 +390,7 @@ meeting, the business of an annual general meeting is to include the following:
 
 2. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause 1. , the intention to propose the resolution as a special resolution.
 
-3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 24 2. .
+3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 4.2 2. .
 
 4. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
