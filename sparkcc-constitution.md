@@ -9,57 +9,72 @@ _Document Version 4: February 2022_
 ## Contents
 
 - Part 1 - Preliminary
-    - 1 Definitions
+    - 1.1 Vision
+    - 1.2 Mission
+    - 1.3 Definitions
 - Part 2 - Membership
-    - 2 Membership generally
-    - 3 Application for membership
-    - 4 Cessation of membership
-    - 5 Membership entitlements not transferable
-    - 6 Resignation of membership
-    - 7 Register of members
-    - 8 Fees and subscriptions
-    - 9 Members’ liabilities
-    - 10 Resolution of disputes
-    - 11 Disciplining of members
+    - 2.1 Membership generally
+    - 2.2 Application for membership
+    - 2.3 Cessation of membership
+    - 2.4 Membership entitlements not transferable
+    - 2.5 Resignation of membership
+    - 2.6 Register of members
+    - 2.7 Fees and subscriptions
+    - 2.8 Members’ liabilities
+    - 2.9 Resolution of disputes
+    - 2.10 Disciplining of members
 - Part 3 - The committee
-    - 13 Powers of the committee
-    - 14 Composition and membership of committee
-    - 15 Election of committee members
-    - 16 Secretary
-    - 17 Treasurer
-    - 18 Casual vacancies
-    - 19  Removal of committee members
-    - 20  Committee meetings and quorum
-    - 21  Delegation by committee to sub-committee
-    - 22  Voting and decisions
+    - 3.1 Powers of the committee
+    - 3.2 Composition and membership of committee
+    - 3.3 Election of committee members
+    - 3.4 Secretary
+    - 3.5 Treasurer
+    - 3.6 Casual vacancies
+    - 3.7  Removal of committee members
+    - 3.8  Committee meetings and quorum
+    - 3.9  Delegation by committee to sub-committee
+    - 3.10  Voting and decisions
 - Part 4 - General meetings
-    - 23  Annual general meetings - holding of
-    - 24  Annual general meetings - calling of and business at
-    - 25  Special general meetings - calling of
-    - 26  Notice
-    - 27  Quorum for general meetings
-    - 28  Presiding member
-    - 29  Adjournment
-    - 30  Making of decisions
-    - 31  Special resolutions
-    - 32  Voting
-    - 33  Proxy votes not permitted
+    - 4.1  Annual general meetings - holding of
+    - 4.2  Annual general meetings - calling of and business at
+    - 4.3  Special general meetings - calling of
+    - 4.4  Notice
+    - 4.5  Quorum for general meetings
+    - 4.6  Presiding member
+    - 4.7  Adjournment
+    - 4.8  Making of decisions
+    - 4.9  Special resolutions
+    - 4.10  Voting
+    - 4.11  Proxy votes not permitted
 - Part 5 - Miscellaneous
-    - 35  Insurance
-    - 36  Funds - source
-    - 37  Funds - management
-    - 38  Change of name, objects and constitution
-    - 39  Custody of books etc
-    - 40  Inspection of books etc
-    - 41  Service of notices
-    - 42  Financial year
-    - 43  Dissolution
-- Appendix 1 Application for membership of association
+    - 5.1  Insurance
+    - 5.2  Funds - source
+    - 5.3  Funds - management
+    - 5.4  Change of name, objects and constitution
+    - 5.5  Custody of books etc
+    - 5.6  Inspection of books etc
+    - 5.7  Service of notices
+    - 5.8  Financial year
+    - 5.9  Dissolution
 
 
 ## Part 1 - Preliminary
 
-### 1. Definitions
+### 1.1 Vision
+
+1. SparkCC believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
+
+### 1.2 Mission
+
+1. SparkCC achieves its Vision by:
+
+- Nuturing a maker community built upon a culture of sharing knowledge and skills.
+- Providing a space in which the maker community can create, collaborate, share and socialise.
+- Providing access to tools and equipment that may be prohibitive for individual makers to own.
+- Providing a space for related communities to host workshops and events.
+- Ensuring our space is inclusive, safe and welcoming for everyone.
+
+### 1.3 Definitions
 
 1.  In this constitution:
 
@@ -80,7 +95,7 @@ _Document Version 4: February 2022_
 
 ## Part 2 - Membership
 
-### 2. Membership generally
+### 2.1 Membership generally
 
 1. A person is eligible to be a member of the association if:
 
@@ -96,7 +111,7 @@ _Document Version 4: February 2022_
 
 3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 (1) (a) of the Act was made.
 
-### 3. Application for membership
+### 2.2 Application for membership
 
 1. Application for membership of the association:
 
@@ -107,31 +122,31 @@ _Document Version 4: February 2022_
     1. completed a general induction either in-person or online at https://members.sparkcc.org.
     2. made their first monthly membership payment as outlined by this constitution.
 
-3. Upon completing the steps in clause 3 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
+3. Upon completing the steps in clause 2.2 2. the applicant's name will be entered into the register of members and, on the name being so entered, the applicant becomes a member of the association.
 
-### 4. Cessation of membership
+### 2.3 Cessation of membership
 
 A person ceases to be a member of the association if the person:
 
 1. dies, or
 2. resigns membership, or
 3. is expelled from the association, or
-4. fails to pay the monthly membership fee under clause 8 2.  before the next billing cycle date.
+4. fails to pay the monthly membership fee under clause 2.7 2.  before the next billing cycle date.
 
-### 5. Membership entitlements not transferable
+### 2.4 Membership entitlements not transferable
 
 A right, privilege or obligation which a person has by reason of being a member of the association:
 
 1. is not capable of being transferred or transmitted to another person, and
 2. terminates on cessation of the person’s membership.
 
-### 6. Resignation of membership
+### 2.5 Resignation of membership
 
 1. A member of the association may resign from membership of the association by first giving to the secretary written notice of at least one month (or such other period as the committee may determine) of the member’s intention to resign and, on the expiration of the period of notice, the member ceases to be a member.
 
 2. If a member of the association ceases to be a member under subclause 1. , and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
 
-### 7. Register of members
+### 2.6 Register of members
 
 1. The public officer of the association must establish and maintain a register of members of the association specifying the name and postal or residential address of each person who is a member of the association together with the date on which the person became a member.
 
@@ -151,18 +166,18 @@ A right, privilege or obligation which a person has by reason of being a member 
     1. the purposes of sending the person a newsletter, a notice in respect of a meeting or other event relating to the association or other material relating to the association, or
     2. any other purpose necessary to comply with a requirement of the Act or the Regulation.
 
-### 8. Fees and subscriptions
+### 2.7 Fees and subscriptions
 
 1. A member of the association must pay to the association a monthly membership fee of $50 or, if some other amount is determined by the committee, that other amount:
 
     1. Membership fees are to paid one month in advance
     2. No refunds will be given on any fees paid in advance.
 
-### 9. Members’ liabilities
+### 2.8 Members’ liabilities
 
-The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 8.
+The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 2.7.
 
-### 10. Resolution of disputes
+### 2.9 Resolution of disputes
 
 1. A dispute between a member and another member (in their capacity as members) of the association, or a dispute between a member or members and the association, are to be referred to the committee.
 
@@ -170,7 +185,7 @@ The liability of a member of the association to contribute towards the payment o
 
 3. If the matter is not resolved by mediation at a community justice centre within 3 months of the referral to a community justice centre, the dispute is to be referred to arbitration. The _Commercial Arbitration Act 1984_ applies to any such dispute referred to arbitration.
 
-### 11. Disciplining of members
+### 2.10 Disciplining of members
 
 1. A complaint may be made to the committee by any person that a member of the association:
 
@@ -189,13 +204,13 @@ constitution, or
 
 4. The committee may, by resolution, expel the member from the association or suspend the member from membership of the association if, after considering the complaint and any submissions made in connection with the complaint, it is satisfied that the facts alleged in the complaint have been proved and the expulsion or suspension is warranted in the circumstances.
 
-5. If the committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken, of the reasons given by the committee for having taken that action and of the member’s right of appeal under clause 12.
+5. If the committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken and of the reasons given by the committee for having taken that action.
 
 6. The expulsion or suspension takes effect at the committees discretion.
 
 ### Part 3 - The committee
 
-### 13. Powers of the committee
+### 3.1 Powers of the committee
 
 Subject to the Act, the Regulation and this constitution and to any resolution passed
 by the association in general meeting, the committee:
@@ -204,12 +219,12 @@ by the association in general meeting, the committee:
 2. may exercise all such functions as may be exercised by the association, other than those functions that are required by this constitution to be exercised by a general meeting of members of the association, and
 3. has power to perform all such acts and do all such things as appear to the committee to be necessary or desirable for the proper management of the affairs of the association.
 
-### 14. Composition and membership of committee
+### 3.2 Composition and membership of committee
 
 1. The committee is to consist of:
 
     1. the office-bearers of the association, and
-    2. up to 3 ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 15.
+    2. up to 3 ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 3.3.
 
 2. The total number of committee members is to be a maximum of 7.
 
@@ -225,7 +240,7 @@ vice-president offices).
 
 5. Each member of the committee is, subject to this constitution, to hold office until the conclusion of the annual general meeting following the date of the member’s election, but is eligible for re-election.
 
-### 15. Election of committee members
+### 3.3 Election of committee members
 
 1. Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
 
@@ -240,7 +255,7 @@ vice-president offices).
 
 5. A person nominated as a candidate for election as an office-bearer or as an ordinary committee member of the association must be a member of the association.
 
-### 16. Secretary
+### 3.4 Secretary
 
 1. The secretary of the association must, as soon as practicable after being appointed as secretary, lodge notice with the association of his or her address.
 
@@ -252,14 +267,14 @@ vice-president offices).
 
 3. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
-### 17. Treasurer
+### 3.5 Treasurer
 
 It is the duty of the treasurer of the association to ensure:
 
 1. that all money due to the association is collected and received and that all payments authorised by the association are made, and
 2. that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
 
-### 18.Casual vacancies
+### 3.6 Casual vacancies
 
 1. In the event of a casual vacancy occurring in the membership of the committee, the committee may appoint a member of the association to fill the vacancy and the member so appointed is to hold office, subject to this constitution, until the conclusion of the annual general meeting next following the date of the appointment.
 
@@ -269,19 +284,19 @@ It is the duty of the treasurer of the association to ensure:
     2. ceases to be a member of the association, or
     3. becomes an insolvent under administration within the meaning of the _Corporations Act 2001_ of the Commonwealth, or
     4. resigns office by notice in writing given to the secretary, or
-    5. is removed from office under clause 19, or
+    5. is removed from office under clause 3.7, or
     6. becomes a mentally incapacitated person, or
     7. is absent without the consent of the committee from 3 consecutive meetings of the committee, or
     8. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
     9. is prohibited from being a director of a company under Part 2D. (Disqualification from managing corporations) of the Corporations Act 2001 of the Commonwealth.
 
-### 19. Removal of committee members
+### 3.7 Removal of committee members
 
 1. A committee member may only be removed from office before the expiration of the member’s term of office by unanimous vote by the committee, and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
 
 2. If a member of the committee to whom a proposed resolution referred to in subclause 1.  relates makes representations in writing to the secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of the association, the secretary or the president may send a copy of the representations to each member of the association upon the committees’ unanimous approval.
 
-### 20. Committee meetings and quorum
+### 3.8 Committee meetings and quorum
 
 1. The committee must meet at least 3 times in each period of 12 months at such place and time as the committee may determine.
 
@@ -302,7 +317,7 @@ It is the duty of the treasurer of the association to ensure:
     1. the president or, in the president’s absence, the vice-president is to preside, or
     2. if the president and the vice-president are absent or unwilling to act, such one of the remaining members of the committee as may be chosen by the members present at the meeting is to preside.
 
-### 21. Delegation by committee to sub-committee
+### 3.9 Delegation by committee to sub-committee
 
 1. The committee may, by instrument in writing, delegate to one or more sub-committees (consisting of such member or members of the association as the committee thinks fit) the exercise of such of the functions of the committee as are specified in the instrument, other than:
     
@@ -321,21 +336,21 @@ It is the duty of the treasurer of the association to ensure:
 
 7. A sub-committee may meet and adjourn as it thinks proper.
 
-### 22. Voting and decisions
+### 3.10 Voting and decisions
 
 1. Questions arising at a meeting of the committee or of any sub-committee appointed by the committee are to be determined by a majority of the votes of members of the committee or sub-committee present at the meeting.
 
 2. Each member present at a meeting of the committee or of any sub-committee appointed by the committee (including the person presiding at the meeting) is
 entitled to one vote but, in the event of an equality of votes on any question, the person presiding may exercise a second or casting vote.
 
-3. Subject to clause 20 (5), the committee may act despite any vacancy on the committee.
+3. Subject to clause 3.8 (5), the committee may act despite any vacancy on the committee.
 
 4. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
 
 ## Part 4 - General meetings
 
-### 23. Annual general meetings - holding of
+### 4.1 Annual general meetings - holding of
 
 1. The association must hold its first annual general meeting within 18 months after its registration under the Act.
 
@@ -344,9 +359,9 @@ entitled to one vote but, in the event of an equality of votes on any question, 
     1. within 6 months after the close of the association’s financial year, or
     2. within such later time as may be allowed by the Director-General or prescribed by the Regulation.
 
-### 24. Annual general meetings - calling of and business at
+### 4.2 Annual general meetings - calling of and business at
 
-1. The annual general meeting of the association is, subject to the Act and to clause 23, to be convened on such date and at such place and time as the committee thinks fit.
+1. The annual general meeting of the association is, subject to the Act and to clause 4.1, to be convened on such date and at such place and time as the committee thinks fit.
 
 2. In addition to any other business which may be transacted at an annual general
 meeting, the business of an annual general meeting is to include the following:
@@ -358,7 +373,7 @@ meeting, the business of an annual general meeting is to include the following:
 
 3. An annual general meeting must be specified as such in the notice convening it.
 
-### 25. Special general meetings - calling of
+### 4.3 Special general meetings - calling of
 
 1. The committee may, whenever it thinks fit, convene a special general meeting of the association.
 
@@ -369,17 +384,17 @@ meeting, the business of an annual general meeting is to include the following:
     3. must be lodged with the secretary, and
     4. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
 
-### 26. Notice
+### 4.4 Notice
 
 1. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 
 2. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause 1. , the intention to propose the resolution as a special resolution.
 
-3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 24 2. .
+3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 4.2 2. .
 
 4. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
-### 27. Quorum for general meetings
+### 4.5 Quorum for general meetings
 
 1. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
 
@@ -392,13 +407,13 @@ meeting, the business of an annual general meeting is to include the following:
 
 4. If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum.
 
-### 28. Presiding member
+### 4.6 Presiding member
 
 1. The president or, in the president’s absence, the vice-president, is to preside as chairperson at each general meeting of the association.
 
 2. If the president and the vice-president are absent or unwilling to act, the members present must elect one of their number to preside as chairperson at the meeting.
 
-### 29. Adjournment
+### 4.7 Adjournment
 
 1. The chairperson of a general meeting at which a quorum is present may, with the consent of the majority of members present at the meeting, adjourn the meeting from time to time and place to place, but no business is to be transacted at an adjourned meeting other than the business left unfinished at the meeting at which the adjournment took place.
 
@@ -407,7 +422,7 @@ stating the place, date and time of the meeting and the nature of the business t
 
 3. Except as provided in subclauses 1.  and 2. , notice of an adjournment of a general meeting or of the business to be transacted at an adjourned meeting is not required to be given.
 
-### 30. Making of decisions
+### 4.8 Making of decisions
 
 1. A question arising at a general meeting of the association is to be determined by either:
 
@@ -419,11 +434,11 @@ unanimously or carried by a particular majority or lost, or an entry to that eff
 
 3. If the question is to be determined by a written ballot, the ballot is to be conducted in accordance with the directions of the chairperson.
 
-### 31. Special resolutions
+### 4.9 Special resolutions
 
 A special resolution may only be passed by the association in accordance with section 39 of the Act.
 
-### 32. Voting
+### 4.10 Voting
 
 1. On any question arising at a general meeting of the association a member has one vote only.
 
@@ -433,19 +448,17 @@ A special resolution may only be passed by the association in accordance with se
 
 4. A member is not entitled to vote at any general meeting of the association if the member is under 18 years of age.
 
-### 33. Proxy votes not permitted
+### 4.11 Proxy votes not permitted
 
 Proxy voting must not be undertaken at or in respect of a general meeting.
 
-_Note: Schedule 1 of the Act provides that an association’s constitution is to address whether members of the association are entitled to vote by proxy at general meetings._
-
 ## Part 5 - Miscellaneous
 
-### 35. Insurance
+### 5.1 Insurance
 
 The association may effect and maintain insurance.
 
-### 36. Funds - source
+### 5.2 Funds - source
 
 1. The funds of the association are to be derived from entrance fees and subscriptions of members, donations and, subject to any resolution passed by the association in general meeting, such other sources as the committee determines.
 
@@ -453,7 +466,7 @@ The association may effect and maintain insurance.
 
 3. The association must, as soon as practicable after receiving any money, issue an appropriate receipt.
 
-### 37. Funds - management
+### 5.3 Funds - management
 
 1. Subject to any resolution passed by the association in general meeting, the funds of the association are to be used in pursuance of the objects of the association in
 such manner as the committee determines.
@@ -462,17 +475,17 @@ such manner as the committee determines.
 
 3.  The assets and income of the association shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
-### 38. Change of name, objects and constitution
+### 5.4 Change of name, objects and constitution
 
 An application to the Director-General for registration of a change in the association’s name, objects or constitution in accordance with section 10 of the Act is to be made
 by the public officer or a committee member.
 
-### 39. Custody of books etc
+### 5.5 Custody of books etc
 
 Except as otherwise provided by this constitution, the public officer must keep in his or her custody or under his or her control all records, books and other documents
 relating to the association.
 
-### 40. Inspection of books etc
+### 5.6 Inspection of books etc
 
 1. The following documents must be open to inspection, free of charge, by a member of the association at any reasonable hour:
 
@@ -483,7 +496,7 @@ relating to the association.
 2. A member of the association may obtain a copy of any of the documents referred to in subclause 1. on payment of a fee of not more than $1 for each page copied.
 
 
-### 41. Service of notices
+### 5.7 Service of notices
 
 1. For the purpose of this constitution, a notice may be served on or given to a person:
 
@@ -498,16 +511,14 @@ relating to the association.
 been delivered in the ordinary course of post, and
     3. in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
 
-### 42. Financial year
+### 5.8 Financial year
 
 The financial year of the association is:
 
 1. the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
 2. each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
 
-_Note: Schedule 1 of the Act provides that an association’s constitution is to address the association’s financial year._
-
-### 43. Dissolution
+### 5.9 Dissolution
 
 1. In the event of the organisation being dissolved or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation, fund, authority or institution with similar objects to which income tax deductible gifts can be made:
 
