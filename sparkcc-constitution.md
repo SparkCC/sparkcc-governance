@@ -520,7 +520,7 @@ The financial year of the association is:
 
 ### 5.9 Dissolution
 
-1. In the event of the organisation being dissolved or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation, fund, authority or institution with similar objects to which income tax deductible gifts can be made:
+1. In the event of the organisation being dissolved, all assets that remain after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes, which is charitable at law and which has rules prohibiting the distribution of its assets and income to its members.
 
     1. gifts of money or property for the principal purpose of the organisation
     2. contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation, and
