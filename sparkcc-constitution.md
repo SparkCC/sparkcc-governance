@@ -4,7 +4,7 @@
 
 Under the Associations Incorporation Act 2009
 
-_Document Version 5: May 2022_
+_Document Version 5.1: July 2022_
 
 ## Contents
 
@@ -56,6 +56,7 @@ _Document Version 5: May 2022_
     - 5.7  Service of notices
     - 5.8  Financial year
     - 5.9  Dissolution
+    - 5.10 DGR revocation
 
 
 ## Part 1 - Preliminary
@@ -522,8 +523,10 @@ The financial year of the association is:
 
 1. In the event of the organisation being dissolved, all assets that remain after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes, which is charitable at law and which has rules prohibiting the distribution of its assets and income to its members.
 
-    1. gifts of money or property for the principal purpose of the organisation
-    2. contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation, and
-    3. money received by the organisation because of such gifts and contributions
+### 5.10 DGR Revocation
 
-2. In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities including those in subclause 1. shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
+1. If the organisation is wound up or its endorsement as a deductible gift recipient is revoked (whichever occurs first), any surplus of the following assets shall be transferred to another organisation with similar objects, which is charitable at law, to which income tax deductible gifts can be made:
+
+    1. gifts of money or property for the principal purpose of the organisation
+    2. contributions made in relation to an eligible fundraising event held for the principal purpose of the organisation
+    3. money received by the organisation because of such gifts and contributions.
