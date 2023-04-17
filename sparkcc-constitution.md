@@ -1,4 +1,4 @@
-# SparkCC Makerspace
+# SparkCC Incorporated
 
 **Constitution**
 
@@ -63,7 +63,7 @@ _Document Version 5.1: July 2022_
 
 ### 1.1 Vision
 
-1. SparkCC believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
+1. SparkCC Incorporated _("SparkCC")_ believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
 
 ### 1.2 Mission
 
