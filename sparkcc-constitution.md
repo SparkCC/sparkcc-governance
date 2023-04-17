@@ -63,7 +63,7 @@ _Document Version 5.1: July 2022_
 
 ### 1.1 Vision
 
-1. SparkCC Incorporated _("SparkCC")_ believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
+1. SparkCC Incorporated _("SparkCC")_ believes that making things in a community setting promotes a strong sense of purpose, enhances personal well-being and relieves social isolation. SparkCC is established to be a charity whose purpose is to advance the social welfare and mental health of Central Coast residents by operating a community makerspace in which they are empowered to work with others and make anything that they can imagine.
 
 ### 1.2 Mission
 
