@@ -1,4 +1,4 @@
-# SparkCC Makerspace
+# SparkCC Incorporated
 
 **Constitution**
 
@@ -63,7 +63,7 @@ _Document Version 5.1: July 2022_
 
 ### 1.1 Vision
 
-1. SparkCC believes that making things promotes a strong sense of purpose and personal well-being. We seek to advance the social welfare of Central Coast residents by empowering them to make anything that they can imagine.
+1. SparkCC Incorporated _("SparkCC")_ believes that making things in a community setting promotes a strong sense of purpose, enhances personal well-being and relieves social isolation. SparkCC is established to be a charity whose purpose is to advance the social welfare and mental health of Central Coast residents by operating a community makerspace in which they are empowered to work with others and make anything that they can imagine.
 
 ### 1.2 Mission
 
@@ -169,7 +169,7 @@ A right, privilege or obligation which a person has by reason of being a member 
 
 ### 2.7 Fees and subscriptions
 
-1. A member of the association must pay to the association a monthly membership fee of $50 or, if some other amount is determined by the committee, that other amount:
+1. A member of the association must pay to the association a monthly membership fee as defined in the [SparkCC Membership Policy](https://wiki.sparkcc.org/policies/membership), or if some other amount is determined by the committee, that other amount:
 
     1. Membership fees are to paid one month in advance
     2. No refunds will be given on any fees paid in advance.
